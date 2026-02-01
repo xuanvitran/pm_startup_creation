@@ -7,18 +7,16 @@ Nom du document final : `[[dataprojectmanagement01_202602_nom_1-nom_2-nom_3.pdf]
 
 ---
 
-# Exercice — Pitch deck startup (early-stage)
+# Exercice - Pitch deck startup (early-stage)
 
 ## 🎯 Objectifs pédagogiques
 
 À la fin, vous serez capables de :
 
-- Transformer une idée en **proposition structurée** (problème → solution → valeur → modèle).
-- Présenter un projet de façon **convaincante et synthétique** (8 minutes total).
-- Justifier vos choix avec des **hypothèses testables** (marché, clients, data, modèle économique).
-- Articuler une vision produit + un plan d’exécution réaliste (MVP, roadmap, risques).
-
----
+- [ ] Transformer une idée en **proposition structurée** (problème → solution → valeur → modèle).
+- [ ] Présenter un projet de façon **convaincante et synthétique** (8 minutes total).
+- [ ] Justifier vos choix avec des **hypothèses testables** (marché, clients, data, modèle économique).
+- [ ] Articuler une vision produit + un plan d’exécution réaliste (MVP, roadmap, risques).
 
 ## 🌍 Contexte du projet
 
@@ -35,8 +33,6 @@ Vous développez une startup (réelle ou fictive) dans une thématique au choix 
 - Votre pitch doit être **compréhensible par des non-experts**.
 - Vous devez expliciter votre **dimension “data”** : quelles données, pour quel usage, avec quels bénéfices, et quelles limites.
 
----
-
 ## 👥 Rôles
 
 Vous incarnez une équipe fondatrice qui lance sa première startup.
@@ -46,13 +42,9 @@ Répartition recommandée (si équipe) :
 - Lead business & marché
 - Lead data/tech & faisabilité
 
----
-
 ## ✅ Votre mission
 
 Concevoir le **pitch deck** qui servirait à convaincre des investisseurs·euses (ou un jury d’incubateur).
-
----
 
 ## 📦 Livrables obligatoires (dans un seul PDF)
 
@@ -73,8 +65,6 @@ Concevoir le **pitch deck** qui servirait à convaincre des investisseurs·euses
 
 📌 Astuce : mettez les canvases en “Annexes A → F” (1 page chacun).
 
----
-
 ## 🧱 Structure attendue du pitch deck (10–12 slides)
 
 1. **Titre + tagline** (1 phrase qui vend l’idée)
@@ -92,8 +82,6 @@ Concevoir le **pitch deck** qui servirait à convaincre des investisseurs·euses
 
 Option (si vous avez de la place) : **Risques & mitigations** (slide bonus très appréciée)
 
----
-
 ## 🧪 Qualité attendue : “preuve plutôt que promesse”
 
 À chaque grande affirmation, ajoutez au moins 1 élément de crédibilité :
@@ -101,8 +89,6 @@ Option (si vous avez de la place) : **Risques & mitigations** (slide bonus très
 - exemple utilisateur, micro-témoignage fictif réaliste, benchmark,
 - estimation chiffrée (même approximative mais justifiée),
 - hypothèse testable + méthode de test.
-
----
 
 ## ⏱️ Modalités de passage (oral)
 
@@ -120,29 +106,19 @@ Règles :
 
 ## 📥 Formulaire de rendu
 
-À compléter : (lien / QR code / LMS)
-
-- Nom du projet
-- Membres du groupe
-- Thématique choisie
-- Lien vers le PDF
-- 3 KPI cibles (ex : activation, rétention, CAC…)
-
----
+_A venir_
 
 ## ✅ Definition of Done (DoD)
 
 Votre rendu est “OK” si :
 
-- Le problème est clair, concret, et relié à une cible précise.
-- La solution est compréhensible en 30 secondes.
-- La différenciation est explicite (vs alternatives).
-- Le modèle économique est cohérent.
-- La partie data/tech est crédible et non-magique.
-- Il y a une roadmap MVP réaliste + des KPI.
-- Les canvases sont remplis et cohérents entre eux.
-
----
+- [ ] Le problème est clair, concret, et relié à une cible précise.
+- [ ] La solution est compréhensible en 30 secondes.
+- [ ] La différenciation est explicite (vs alternatives).
+- [ ] Le modèle économique est cohérent.
+- [ ] La partie data/tech est crédible et non-magique.
+- [ ] Il y a une roadmap MVP réaliste + des KPI.
+- [ ] Les canvases sont remplis et cohérents entre eux.
 
 ## 🧮 Barème (sur 20)
 
