@@ -106,7 +106,10 @@ Règles :
 
 ## 📥 Formulaire de rendu
 
-_A venir_
+[https://xvt.notion.site/2fb82fb2de5e808c90a1d9e02d417638?pvs=105](https://xvt.notion.site/2fb82fb2de5e808c90a1d9e02d417638?pvs=105)
+
+Si vous avez un soucis avec le formulaire, vous pouvez me l'envoyer à :
+xv.tran@intervenant-ggeedu.fr
 
 ## ✅ Definition of Done (DoD)
 
